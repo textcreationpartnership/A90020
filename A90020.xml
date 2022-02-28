@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New quæres of conscience, touching the late oath; desiring resolution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90020</idno>
+            <idno type="STC">Wing N735</idno>
+            <idno type="STC">Thomason 11:E.65[5b]</idno>
+            <idno type="EEBO-CITATION">99871973</idno>
+            <idno type="PROQUEST">99871973</idno>
+            <idno type="VID">155387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[5b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New quæres of conscience, touching the late oath; desiring resolution.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Web,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The words "1. The threefold .. Protestant religion." in title are enclosed in a complex system of brackets.</note>
+                  <note>The imprint, from colophon, is false; actual place of publication from Madan.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 12. 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: Examinations, or, A discovery of some dangerous positions delivered in a sermon of reformation preached in the Church of the Savoy last fast day, Iuly 26. by Tho. Fuller B.D. and since printed.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="queries">
+            <pb facs="tcp:155387:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>New Quaeres <hi>OF</hi> CONSCIENCE, <hi>Touching the late</hi> OATH; Deſiring Reſolution.</head>
+            <list>
+               <label>
+                  <hi>Q.</hi> How it conſists with</label>
+               <item>
+                  <list>
+                     <item>1. The threefold conditions of an Oath in generall of <hi>Truth, Iudgement, Righteouſnes</hi> Jer. 4.2.</item>
+                     <item>2. The threefold Oath taken in particular <hi>Viz.</hi> of
+<list>
+                           <item>1. <hi>Allegiance.</hi>
+                           </item>
+                           <item>2. <hi>Supremacy.</hi>
+                           </item>
+                           <item>3. <hi>Proteſtation.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3. Their own introduction, Limitation in ſpeciall, in order to the ſecurity and preſervation of the True, Reformed, Proteſtant Religion.</item>
+                  </list>
+               </item>
+            </list>
+            <div n="1" type="query">
+               <head>
+                  <hi>I. Quaere.</hi> How it conſiſts with the three Conditions of an <hi>OATH.</hi>
+               </head>
+               <p n="1">1. <hi>OF Truth,</hi> which excludes falſhood, doublings, ficti<g ref="char:EOLhyphen"/>ons, mentall evaſions, aequivocations, and reſervati<g ref="char:EOLhyphen"/>ons, and requires ſimplicity and ſincerity, according to the ſenſe and purpoſe of the impoſer. 1 <hi>Liquide jurare,</hi>
+               </p>
+               <p n="2">2. <hi>Of judgement,</hi> not unadviſedly, lightly or wantonly, to ſa<g ref="char:EOLhyphen"/>tisfie the times, to comply with great perſons, for advantage,
+<pb facs="tcp:155387:2"/>
+                  <!-- PDF PAGE 35 -->or carnall ſecuritie, not upon a Popiſh implicite faith, but to let every man be perſwaded in his own minde, that it be grounded upon a neceſſary Cauſe, and taken ſoberly, adviſed<g ref="char:EOLhyphen"/>ly, diſcreetly, reverently, and in the fear of God.</p>
+               <p n="3">3. <hi>Of Righteouſneſſe,</hi> That it be not to the prejudice of my Neighbour.</p>
+               <p>Hee that takes it with his private Reſervation inconſiſtent with the Senſe and purpoſe of the Oath, offends againſt the firſt. He that takes it for favour of men, offends againſt the ſecond. He that takes it out of emulation and rage, to the dammage of his Brother, offends againſt the third.</p>
+               <p>For theſe Cauſes, D. <hi>Auguſtine</hi> concludes; <hi>Falſa juratio exitioſa eſt, vera juratio periculoſa, nulla juratio ſecura.</hi> Falſe ſwearing is pernitious; True ſwearing is dangerous; no ſwea<g ref="char:EOLhyphen"/>ring is ſecure. <hi>Ser.</hi> 28. <hi>de verb. Apoſt.</hi>
+               </p>
+               <p>By an ancient Law of the Church, No man was to be ſworn but faſting.</p>
+            </div>
+            <div n="2" type="query">
+               <head>
+                  <hi>Quaere II.</hi> How can it conſiſt with the Oath?</head>
+               <p n="1">1 <hi>OF Supremacy.</hi> For if he be once ſupream over all per<g ref="char:EOLhyphen"/>ſons, in all cauſes Eccleſiaſticall and Temporall, how can I ſwear to ſubject him, or bring him under any perſon, in any Cauſe whatſoever? and though the chief occaſion of that Oath was upon the Popes pretending juriſdiction, yet the in<g ref="char:EOLhyphen"/>tention and extention was to ſhut all his Subjects under the ſame condition of Obedience.</p>
+               <p n="2">2 <hi>Of Allegiance,</hi> For I am bound Firſt, To defend the King and his Succeſſours to the uttermoſt of my power a<g ref="char:EOLhyphen"/>gainſt all Treaſons, &amp; Conſpiracies againſt his Perſon, Crown and dignity. Secondly, To doe my beſt endeavour to reveal all Conſpiracies I know or hear againſt him or any of them, and Third, That no perſon whatſoever hath power to abſolve me of the Oath, and All which ſeem to be endangered by taking up Armes againſt him, or his life-guard, or the forces raiſed by him.</p>
+               <pb facs="tcp:155387:2"/>
+               <!-- PDF PAGE 35 -->
+               <p n="3">3. <hi>Of the late Proteſtation,</hi> in regard of a double ſeeming Contradiction. For I promiſe, vow and proteſt, to maintain the Proteſtant Religion, expreſſed in the Doctrine of the Church of <hi>England.</hi> But this aſſertion (That in my Conſci<g ref="char:EOLhyphen"/>ence I do beleeve that the Forces raiſed by the two Houſes of Parliament, are raiſed and continued for their juſt defence, and for the defence of the true Proteſtant Religion) ſeems to contradict the Proteſtant Religion &amp; Doctrin of our Church. For though there be many ſtrange Fancies, and doctrines in the Church of England, yet there is but One expreſſe Doctrine of the Church of England, and that is conteined in the 39 Ar<g ref="char:EOLhyphen"/>ticles, and Book of Common Prayer (to which all the regular Clergy muſt ſubſcribe) and are confirmed by an Act of Parlia<g ref="char:EOLhyphen"/>ment. Now one Proteſtant point of our Religion, expreſſed in the Doctrine of this Church, is in the 37 <hi>Article,</hi> Viz.
+<q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="excerpt_from_the_n37_Articles">
+                              <p n="1">1. <hi>The Kings Majeſty hath the Chief power</hi> (id eſt, <hi>ſupremacy</hi>) <hi>in this Realme of England, unto whom the Chiefe gouernment of All Eſtates of this Realme, whether Eccleſiaſticall or Civill, in all Cauſes doth appertaine, To Rule All eſtates and degrees committed to his charge, and to reſtrain with the ſword the Stubborne and evill doers,</hi> which hee cannot doe if the Sword or Militia bee taken from him.</p>
+                              <p n="2">2. <hi>That a man may take up Armes when the Magiſtrate</hi> (id eſt <hi>Supream power</hi>) <hi>commandeth.</hi>
+                              </p>
+                              <p n="3">3. <hi>That a man may ſweare when the Magiſtrate requires in a cauſe of Faith and Charity. Implying that no man ought to ſweare, take ſolemne Oathes, or Beare Armes without the in<g ref="char:EOLhyphen"/>junction of the ſupreame Magiſtrate.</hi>
+                              </p>
+                              <p n="4">4. <hi>That the two Books of Homilies containes a godly and wholſome Doctrine and are to be read in Churches by the Mi<g ref="char:EOLhyphen"/>niſters (not only reading Miniſters) diligently and diſtinctly, that they may be underſtood of the people.</hi>
+                              </p>
+                              <p n="5">5. <hi>Homil.</hi> 21. Againſt Rebellion, <hi>That it is not lawfull for Subjects to raiſe up Armes againſt their Soveraigne, under colour of Religion.</hi>
+                              </p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <pb facs="tcp:155387:3"/>
+               <!-- PDF PAGE 36 -->
+               <q>
+                  <bibl>
+                     <hi>Eccleſ.</hi> 4.12.</bibl>
+                  <p>A threefold cord is not eaſily broken, except by ſuch as furiouſly rage to<g ref="char:EOLhyphen"/>gether, and lightly imagine a vain thing. By Rulers that take Coun<g ref="char:EOLhyphen"/>ſell together againſt the Lord, and againſt his Anointed, ſaying, Let us break their bonds aſunder, and caſt away their Cords from us. But he that ſits in Heaven, laughs them to ſcorne, the Lord ſhall have them in deriſion.</p>
+               </q>
+               <q>
+                  <p>And yet will I ſet my King upon his holy hill of Sion: Hee will bruiſe them with a rod of iron, and, Be wiſe therefore, and kiſſe the Son, leſt he be angry.</p>
+                  <bibl>
+                     <hi>Pſal.</hi> 2.1, 2 3.</bibl>
+               </q>
+            </div>
+            <div n="3" type="query">
+               <head>
+                  <hi>Quaere III.</hi> How can it conſiſt with the Proteſtation in the ſecond particu<g ref="char:EOLhyphen"/>lar, Againſt all Popiſh Innovations within the Realm, &amp;c. For to tak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up Armes in Caſe of Religion, againſt the ſu<g ref="char:EOLhyphen"/>pream Power, is a plain Popiſh Jeſuiticall Innovation, taught and maintained by them in this laſt age.</head>
+               <p>And in the third particular.</p>
+               <p>
+                  <hi>For I vow and proteſt to maintain with my life, power and eſtate, according to the duty of my Allegiance, his Maieſties.</hi>
+               </p>
+               <list>
+                  <item>1. Power.</item>
+                  <item>2. Honour.</item>
+                  <item>3. Eſtate.</item>
+               </list>
+               <div type="part">
+                  <head>Now the <hi>Quaere</hi> is, How can I maintain?</head>
+                  <p n="1">1. HIS <hi>Perſon, with my life, power and eſtate,</hi> if I ſwear, To aſſiſt an army of men, which he declares (as is thought by many pious and judicious men) to be utter enemies to his life, honour and eſtate.</p>
+               </div>
+               <div type="part">
+                  <head>Or how can I maintain?</head>
+                  <p n="2">2. His <hi>Honour,</hi> when by the Oath I profeſſe not onely in my heart and thought to curſe him, contrary to the word of God. <hi>Eccleſ.</hi> 10.20. <hi>Exod.</hi> 22.28. but openly wirh my mouth to blaſpheme him, and in effect ſay, (which is <hi>Nefandum</hi>) He is an utter enemy of Gods true Religion, a violator of all ſacred Vowes, Oaths, Bonds and Covenants. And ſhall I yet ſay, I maintain his honour? Am I thus preſumptuous to judge him, and not afraid to ſpeak evill of Dignities, and yet maintain his Honour, or the Proteſtant Religion? Did <hi>Cham</hi> honour his father, when he diſcovered his nakedneſſe? And
+<pb facs="tcp:155387:3"/>
+                     <!-- PDF PAGE 36 -->doe they honor their father that cover and extinguiſh his ver<g ref="char:EOLhyphen"/>tues and glory, and caſt aſpertions of diſgrace and calumny up<g ref="char:EOLhyphen"/>on him? Would ſuch Honour be taken of the Father from his children? of the ſervant from his maſter? <hi>Go and offer that honour to thy Father, thy Maſter, thy Governour, and ſee if hee will take it at thy hands.</hi> Mal. 1.6.8.</p>
+               </div>
+               <div type="part">
+                  <head>Or how can I maintain?</head>
+                  <p n="3">3. His <hi>Eſtate,</hi> when I take part with them that withhold, and withdraw it from him. 2. That put him to ſuch an ex<g ref="char:EOLhyphen"/>hauſting and conſuming charge by maintaining an Army to guard and protect his Perſon and his Subjects.</p>
+                  <p>Nor will the after Limitation ſerve to heal the breach of the Oath, by ſaying, It was not to be extended to the mainte<g ref="char:EOLhyphen"/>nance of any Form or Worſhip, Diſcipline or Government of the Church of <hi>England</hi>) for firſt all the ordained Miniſters have ſubſcribed and ſworn to all the Doctrine of the Church, &amp;c. and cannot be abſolved from any lawfull Oath by any power whatſoever.</p>
+                  <p n="4">4. Though it ſhould not be extended to Church govern<g ref="char:EOLhyphen"/>ment, yet it will reach to the Civill Supremacy and power of the ſword, which it avoucheth to be only in the King, and not in any Subjects whatſoever.</p>
+               </div>
+            </div>
+            <div n="4" type="query">
+               <head>
+                  <hi>Quaere IIII.</hi> How can it conſiſt with its own</head>
+               <p>Introduction, <hi>id eſt. That there hath been, and now is a Popiſh and Traterous Plot for the ſubverſion of the true Religion.</hi> Firſt, <hi>How can I beleeve it, and beleeve the Kings Proteſta<g ref="char:EOLhyphen"/>tion to the contrary.</hi> Secondly, <hi>And how can I honour the King, and not beleeve him?</hi> Thirdly, <hi>How can I call it a Po<g ref="char:EOLhyphen"/>piſh Army, when the better and greater part by far are Pro<g ref="char:EOLhyphen"/>teſtants, and againſt all Popiſh Plots.</hi>
+               </p>
+               <p>And <hi>Expreſſion,</hi>
+               </p>
+               <p n="1">1 IN declaring my ſorrow for my ſins paſt, and purpoſe to a<g ref="char:EOLhyphen"/>mend, if in the very Oath I commit greater ſins of Diſo<g ref="char:EOLhyphen"/>bedience, perjury, and blaſphemy then I repented of; if the Repentance it ſelf be a mockery, a ſin, and a Tranſgreſſion, its
+<pb facs="tcp:155387:4"/>
+                  <!-- PDF PAGE 37 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:155387:4"/>
+                  <!-- PDF PAGE 37 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:155387:5"/>
+                  <!-- PDF PAGE 38 -->a Repentance to be repented of; <hi>and if the light which is in us be darkneſſe, how great is that darkneſſe?</hi> if the Repentance it ſelf include a Tranſgreſſion, how great is that Tranſgreſſion?</p>
+               <p n="2">2. <hi>How is it in order to the ſecuring of our Proteſtant Re<g ref="char:EOLhyphen"/>ligion?</hi> When as it is clear by that which is above ſaid, it is directly contrary to the Doctrine of our Church? which clear<g ref="char:EOLhyphen"/>ly aſſents the Kings Supremacy over all perſons, in all Cauſes, and plainly denies any power of Armes to be uſed by Subjects againſt the King under colour of Religion. Beſides, what our Lord anſwered for himſelf, <hi>Luk.</hi> 12. we his ſervants may fol<g ref="char:EOLhyphen"/>low him to the like offers. <hi>Quis conſtituit me diviſorem ſu<g ref="char:EOLhyphen"/>per vos?</hi> when one deſired him to ſpeak to his Brother to di<g ref="char:EOLhyphen"/>vide the inheritance, he anſwered, <hi>Man, who hath made me a divider or judge over you?</hi> if any ſpeak to us to take up Armes. <hi>Quaere,</hi> Who hath made me a Judge over my Soveraigne? When he hath proteſted by all that is ſacred, <hi>That he will de<g ref="char:EOLhyphen"/>fend the true Proteſtant Religion, and Liberty of the Sub<g ref="char:EOLhyphen"/>ject, &amp;c.</hi> Who hath made me a judge over his heart? to ſit in Gods Tribunall? or who hath made me a divider betwixt the King and his two Houſes of Parliament? or who hath made me a Defender of the faith? by any power coercive, or force of Sword? Am I not rather excluded from it by our Saviour? <hi>He that taketh the ſword, ſhall periſh by the ſword.</hi>
+               </p>
+               <div type="part">
+                  <head>¶ <hi>How can it conſiſt with former Oaths,</hi> Viz.</head>
+                  <p>To maintain the Kings Perſon, honor and eſtate, and all and every perſon (in order to the Proteſtation) in whatſoever they ſhall doe in purſuance of the ſame. And yet aſſiſt to the ut<g ref="char:EOLhyphen"/>moſt of my power, Firſt, Thoſe that hazard his Perſon, honor and Eſtates, 2. thoſe that go contrary to the Doctrine of the Church of <hi>England</hi> (in taking up <hi>Armes againſt the King, under colour of Religion</hi>) in all that they ſhall doe in purſuance of the ſame. What if I ſhould be required to kill my own fa<g ref="char:EOLhyphen"/>ther naturall, civill, or ſpirituall, my <hi>Soveraign,</hi> my <hi>Parents,</hi> my <hi>Paſtours,</hi> if they ſhall oppoſe their force by word or deed, and maintain the Kings Cauſe againſt them; and all this may be encluded (in purſuance of the ſame) and we haue cauſe to fear
+<pb facs="tcp:155387:5"/>
+                     <!-- PDF PAGE 38 -->it is ſo intended, or may be on occaſion extended, when it is ta<g ref="char:EOLhyphen"/>ken by ſome (I fear) for good doctrin, <hi>That every man may con<g ref="char:EOLhyphen"/>ſecrate his hand and fall upon his brother, if he judge him an I<g ref="char:EOLhyphen"/>dolater.</hi> And that the tribe of <hi>Levi</hi> by that ſevere execution, did expiate their ſlain of the Fathers Tranſgreſſion, in their bloody exciſion of the <hi>Sechemites</hi> circumciſion. Perhaps the compa<g ref="char:EOLhyphen"/>riſon holds in part in their furious zeal, of <hi>Simeon</hi> and <hi>Levi,</hi> who under an hypocriticall pretext of Religion, and Circum<g ref="char:EOLhyphen"/>ciſion, wrought the utter deſtruction and exciſion of the <hi>She<g ref="char:EOLhyphen"/>chemites.</hi> Which made <hi>Jacob</hi> complain, <hi>You have troubled me, and made me to ſtink among, &amp;c.</hi> Gen. 49.5. <hi>Simon</hi> and <hi>Levi,</hi> Brethren in evill. <hi>O my Soul, come not thou into their (Coun<g ref="char:EOLhyphen"/>ſell)</hi> id eſt <hi>Secret, and into their Aſſembly, my honour, be not united. Curſed be their anger, for it was fierce, and their wrath, for it was cruell. I will divide them in</hi> Jacob, <hi>and ſcatter them in</hi> Iſrael.</p>
+                  <q>
+                     <p>Woe to them that draw iniquity with Cords of Vanity, and Sin, as it were with Cart-ropes.</p>
+                     <bibl>
+                        <hi>Iſai. 5.18, 28.</hi>
+                     </bibl>
+                  </q>
+                  <p>
+                     <hi>Chryſoſtome,</hi> As children pulling a rotten Rope at both ends, contrary-wayes, at laſt it breakes, and both fall and break their heads and legges. So in a doubtfull Twiſt<g ref="char:EOLhyphen"/>ed Oath, rotten and unſound, when contrary parts pull ſeverall wayes, or when Conſcience holds one way, and worldly affection pulls another way; The Cord or Oath breaks, and both ſides fall into a Gulf of perdition. The one by provoking the Oath, the other by breaking the Oath.</p>
+                  <p>Conſcience falls one way, and breakes his peace. World pulls and falls another way, and breaks his credit.</p>
+                  <q>
+                     <p>The Spirit of a man would ſuſtein his infirmities, but a woun<g ref="char:EOLhyphen"/>ded Spirit who can bear.</p>
+                     <bibl>
+                        <hi>Prov. 18.14.</hi>
+                     </bibl>
+                  </q>
+                  <p>Hear Saint <hi>Chryſoſtomes</hi> ſuit and requeſt to his flock. <hi>This I now ask, and well never leave asking, That whenſoever any is about to ſwear, Let's take</hi> John Baptiſts <hi>head, and with loud cries ſhew it, and cry out againſt Oaths, and imagine you heard that tongue yet speaking as the voice of a Cryer, Hate and ab<g ref="char:EOLhyphen"/>hor an Oath my Murderer; For what my reproof could not ef<g ref="char:EOLhyphen"/>fect,
+<pb facs="tcp:155387:6"/>
+                        <!-- PDF PAGE 39 -->an Oath did, And what a Tyrants fury could not doe, that a neceſſity of Perjury effected.</hi> Hee that once heard him gladly, and did many things, and reverenced his Sanctity, now mur<g ref="char:EOLhyphen"/>dered him cruelly, and that by vertue of an Oath, for two cau<g ref="char:EOLhyphen"/>ſes, Firſt <hi>For his Oaths ſake.</hi> Secondly, <hi>For Companies ſake, id eſt,</hi> in purſuance of his Oath, he cuts off the head of a Saint worth the whole world.</p>
+                  <p>
+                     <hi>NOw let thoſe who are already intangled with this unhappy Covenant, judge rightly of</hi> Herods <hi>Caſe, Whether it had not been much better to have violated his raſh Oath, and con<g ref="char:EOLhyphen"/>feſſed his folly in making it, before all that were preſent, then ſo bloodily to have kept it. Let them remember the Schoole Do<g ref="char:EOLhyphen"/>ctrine,</hi> No man can be ſo immur'd or incloſed betwixt two ſins, but he may find the way out without a third. <hi>If it be a deadly crime to keep ſuch an Ooth it can be no ſin to break it. Wee ſee the Iſraelites found a way to evade their ſevere vow againſt the Benjamites, not to give them their daughters.</hi> Judg. 21.21. <hi>and it is not laid to their charge. We read of the peoples delivering</hi> Jonathan <hi>out of</hi> Sauls <hi>hand, notwithſtanding his fathers vow to put him to death.</hi> 1. Sam. 14.45. <hi>And neither the people are blamed for ſo doing, nor</hi> Saul <hi>taxed for yeelding to the people. What need more be ſaid, when we finde</hi> David <hi>himſelf repenting of his raſh Oath, to deſtroy the houſhold of</hi> Nabal <hi>the Carmelite.</hi> 1. Sam. 25.34. <hi>How many Chriſtians in the Primitive time may we read of, that having once abjured their Saviour, repented, and turned again and were crowned with Martyrdom! How many of later dayes, that notwithſtanding they have once ſub<g ref="char:EOLhyphen"/>ſcribed and ſworn againſt the Proteſtant Doctrine, yet have la<g ref="char:EOLhyphen"/>mented their inconſtancy, and ſuffered death valiantly in defence of it! It is a moſt certain Rule, that in raſh Oaths,</hi> poenitenda promiſſio, non perficienda praeſumptio: <hi>The promiſe ought to be repented of, preſumption ought not to be executed. And in unjuſt and wicked ones, ſuch as this Covenant,</hi> Injuſta vincula rumpat juſtitia. <hi>Unjuſt and unrighteous fetters, let Righteouſnes burſt aſunder.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Oxford</hi> Printed for <hi>William Web.</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
